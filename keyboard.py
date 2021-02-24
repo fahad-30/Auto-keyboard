@@ -6,7 +6,7 @@ import time
 
 keyboard.wait('esc') # trigger to start the bottom script. After placing cursor in the chat box, press 'esc' and wait for the magic.
 
-loop = 1 ## runs the loop for 30 mins approx
+loop = 30 ## runs the loop for 30 mins approx
 
 for n in range(loop):
 	# print(n+1)
