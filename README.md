@@ -14,3 +14,5 @@ Run keyboard.py to activate auto-keyboard.
 Has two lists:
 - Sen: contains the sentence you wanna type.
 - Emo: contains the emotes you wanna type.
+
+Some examples have been given in the sentences.py
